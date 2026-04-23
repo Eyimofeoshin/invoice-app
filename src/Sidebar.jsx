@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTheme } from './ThemeContext'; //
-import oval from './oval.png';
+import oval from './Oval.png';
 const Sidebar = () => {
   const { theme, toggleTheme } = useTheme(); //
 
